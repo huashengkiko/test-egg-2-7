@@ -9,7 +9,7 @@
 **工具版本**: v1.13.0
 **node版本**: v10.13.0
 **yeoman版本**: v2.0.6
-**生成时间**: 2019-10-13 03:41:59
+**生成时间**: 2019-10-13 03:51:59
 **生成方式**: 命令模式
-**生成参数**: {"orgName":"","projectName":"deepexi-eggjs-kiko","author":"kiko-turi","router":"router-plus","db":"mongo","configservice":"apollo","apm":"skywalking","swServers":"localhost:11800","mode":"command","version":"1.13.0","conditions":{"router-plus":true,"apollo":true},"dependencies":{"utils":true,"eureka":true,"swagger":true,"tx":true}}
-**生成命令**: yo generator-deepexi-eggjs -c --orgName= --projectName=deepexi-eggjs-kiko --author=kiko-turi --router=router-plus --db=mongo --configservice=apollo --apm=skywalking --swServers=localhost:11800
+**生成参数**: {"orgName":"","projectName":"deepexi-eggjs-kiko","author":"kiko-turi","router":"router-plus","db":"mongo","configservice":"apollo","apm":"skywalking","swServers":"","mode":"command","version":"1.13.0","conditions":{"router-plus":true,"apollo":true},"dependencies":{"utils":true,"eureka":true,"swagger":true,"tx":true}}
+**生成命令**: yo generator-deepexi-eggjs -c --orgName= --projectName=deepexi-eggjs-kiko --author=kiko-turi --router=router-plus --db=mongo --configservice=apollo --apm=skywalking --swServers=
